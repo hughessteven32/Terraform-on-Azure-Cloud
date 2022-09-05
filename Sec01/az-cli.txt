@@ -21,3 +21,6 @@ az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/SUBSCRIPT
 
 az logout
 #command to logout the azure cli
+
+
+#added extra message to code
